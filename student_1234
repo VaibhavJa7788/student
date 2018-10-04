@@ -1,4 +1,20 @@
-student123def 
-7i8
-rt8][er
-tr8iro
+l=[]
+for i in range(4):
+    n=int(input("enter number"))
+    l.append(n)
+print(l)
+m=[]
+for x in range(4):
+        a=int(input("enter no")
+    m.append(n)
+print(m)
+              c=l+m
+              print(c)
+              for i in range(8)
+              for i in range(8):
+
+        if c[i]<c[i]
+              t=c[i]
+              c[i]=c[j]
+              c[j]=t
+    print("set 1st",l,"\tset2",m,"\tmerging:'",c)
